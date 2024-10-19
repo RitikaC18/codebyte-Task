@@ -1,0 +1,9 @@
+#Declaring Array
+ary = [65, 40, 12, 38, 15, 41, 26]
+
+# Find the largest element USING MAX() 
+largest = max(ary)
+
+print("The largest element is:", largest)
+
+#output=65
